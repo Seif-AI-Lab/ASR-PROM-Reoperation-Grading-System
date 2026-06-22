@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript and this software archive."
+title: "Preoperative and Dynamic Patient-Reported Disability Improve Reoperation Prediction After Lumbar Spine Surgery: A Risk-Grading System"
+type: software
+authors:
+  - family-names: Gholampour
+    given-names: Seifollah
+# TODO: Add the remaining manuscript coauthors before creating the final GitHub release.
+version: "1.0.0"
+date-released: "2026-06-22"
+repository-code: "https://github.com/YOUR-USERNAME/ASR-ODI-reoperation-risk-grading"
+url: "https://github.com/YOUR-USERNAME/ASR-ODI-reoperation-risk-grading"
+keywords:
+  - lumbar spine surgery
+  - reoperation prediction
+  - patient-reported outcome measures
+  - Oswestry Disability Index
+  - machine learning
+  - SHAP
+  - American Spine Registry
+license: MIT
+# After Zenodo creates a DOI, add it here, for example:
+# doi: "10.5281/zenodo.XXXXXXX"
